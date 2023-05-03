@@ -76,7 +76,7 @@ Dedicated and driven Computer Science graduate student, having over 4 years of e
       <b>State Street Corporation, Boston, MA</b><a> - Equity, Trading, Investment Management</a>
     </li>
     <ul>
-      <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
+      <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
       <ul>
         <li>Automated performance testing of the proprietary product on Azure instances by developing a Java framework. Ensured that no performance SLA was breached and reduced operation time by 80%</li>
         <li>Visualized statistical analytics and built reporting samplers that tracked and generated trades reports. Increased efficiency by 32%</li>
@@ -88,7 +88,7 @@ Dedicated and driven Computer Science graduate student, having over 4 years of e
       <b>Accenture Solutions Pvt. Ltd, India</b><a> - Retail, Supply-Chain, Healthcare</a>
     </li>
     <ul>
-      <li>Software Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2019 - Aug 2021)</b></li>
+      <li>Software Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2019 - Aug 2021)</b></li>
       <ul>
         <li>Led a Supply-Chain project for one of the biggest retail giants of Canada to construct ESB middleware in Java and Oracle DB, ensuring smooth data flow between disparate applications across vendor platforms. Reduced operation costs by over 40%</li>
         <li>Implemented 150+ gateway APIs (15%) for Canada’s biggest API migration project in Google Apigee Edge and Layer 7</li>
@@ -96,7 +96,7 @@ Dedicated and driven Computer Science graduate student, having over 4 years of e
         <li>Mentored 10 associate developers and conducted technology & domain knowledge transfer sessions for the team</li>
       </ul>
       <p></p>
-      <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Dec 2017 - Nov 2019)</li>
+      <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Dec 2017 - Nov 2019)</li>
       <ul>
         <li>Delivered a BlueChip Healthcare project in Java and Oracle DB, single handedly, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%</li>
         <li>Automated monitoring & disaster recovery of all client servers using Python, shell scripts and Splunk to reduce downtime by 75%</li>
