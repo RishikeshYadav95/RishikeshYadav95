@@ -1,4 +1,4 @@
-Hi, My name is Rishikesh Yadav
+Rishikesh Yadav
 ================================
 
 Dedicated and driven Computer Science graduate student, having over 4 years of extensive experience, I am actively seeking a Software Developer role to apply my knowledge in practical settings and excel at new technologies in this field.
@@ -7,7 +7,7 @@ Dedicated and driven Computer Science graduate student, having over 4 years of e
 * ✉️  You can contact me at [rishikesh21095@gmail.com](mailto:rishikesh21095@gmail.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any interesting projects
-* ⚡  Ex. - Alpha Cloud Intern at State Street Corporation | Ex. - Accenture
+* ⚡  Ex. - State Street Corporation | Ex. - Accenture
 
 ### Skills
 
@@ -53,14 +53,61 @@ Dedicated and driven Computer Science graduate student, having over 4 years of e
 
 <p align="left"> <a href="https://www.github.com/RishikeshYadav95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api?username=RishikeshYadav95&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="RishikeshYadav95's GitHub stats" /></a>
+<table>
+  <tr>
+    <th>
+     <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api?username=RishikeshYadav95&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="RishikeshYadav95's GitHub stats" /></a>
+    </th>
+  <th>
+<a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></th></tr>
+  <tr><td colspan="2"> <a href="https://github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td></tr>
+</table>
 
-<a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Work Experience
+<p></p>
+<p align="left">
+  <ol>
+    <li>
+      <b>State Street Corporation, Boston, MA</b><a> - Equity, Trading, Investment Management</a>
+    </li>
+    <ul>
+      <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></a>
+      <ul>
+        <li>Automated performance testing of the proprietary product on Azure instances by developing a Java framework. Ensured that no performance SLA was breached and reduced operation time by 80%</li>
+        <li>Visualized statistical analytics and built reporting samplers that tracked and generated trades reports. Increased efficiency by 32%</li>
+        <li>Collaborated with clients to build product pitches explaining technological solutions to the non-technical stakeholders</li>
+      </ul>
+      <p></p>
+    </ul>
+    <li>
+      <b>Accenture Solutions Pvt. Ltd, India</b><a> - Retail, Supply-Chain, Healthcare</a>
+    </li>
+    <ul>
+      <li>Software Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2019 - Aug 2021)</b></li>
+      <ul>
+        <li>Led a Supply-Chain project for one of the biggest retail giants of Canada to construct ESB middleware in Java and Oracle DB, ensuring smooth data flow between disparate applications across vendor platforms. Reduced operation costs by over 40%</li>
+        <li>Implemented 150+ gateway APIs (15%) for Canada’s biggest API migration project in Google Apigee Edge and Layer 7</li>
+        <li>Collaborated with cross-functional teams in sprint planning, pair programming sessions, code reviews, and support rotations</li>
+        <li>Mentored 10 associate developers and conducted technology & domain knowledge transfer sessions for the team</li>
+      </ul>
+      <p></p>
+      <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Dec 2017 - Nov 2019)</li>
+      <ul>
+        <li>Delivered a BlueChip Healthcare project in Java and Oracle DB, single handedly, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%</li>
+        <li>Automated monitoring & disaster recovery of all client servers using Python, shell scripts and Splunk to reduce downtime by 75%</li>
+        <li>Worked in the DevOps team and created Jenkins pipelines to automate code deployment processes on Cloud</li>
+      </ul>
+      <p></p>
+    </ul>
+  </ol>
+</p>
+<p></p>
 
-<a href="https://github.com/RishikeshYadav95" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Git commits
 
 <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RishikeshYadav95&bg_color=181824&color=ffffff&line=10b981&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
