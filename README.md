@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RISHIKESH YADAV
-=======================================================================================================================================
+Hi, My name is Rishikesh Yadav
+================================
 
-Java Developer
---------------
+Dedicated and driven Computer Science graduate student, having over 4 years of extensive experience, actively seeking a Software Developer role to apply my knowledge in practical settings and excel at new technologies in this field.
 
-I am a java developer
-
+* 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [rishikesh21095@gmail.com](mailto:rishikesh21095@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
