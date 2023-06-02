@@ -8,6 +8,7 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
 * 🧠  I'm learning Spark
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  Ex. - State Street Corporation | Ex. - Accenture
+* 💼  Ex. - State Street Corporation | Ex. - Accenture
 
 ### Skills
 
