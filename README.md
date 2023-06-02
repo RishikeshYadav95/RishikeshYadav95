@@ -7,9 +7,7 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
 * ✉️  You can contact me at [rishikesh21095@gmail.com](mailto:rishikesh21095@gmail.com)
 * 🧠  I'm learning Spark
 * 🤝  I'm open to collaborating on any interesting projects
-* ⚡  Ex. - State Street Corporation | Ex. - Accenture
-* ![image](https://github.com/RishikeshYadav95/RishikeshYadav95/assets/17608292/17459b5a-65f0-47ea-8f41-092c9df07f48)
-  Ex. - State Street Corporation | Ex. - Accenture
+* 💼  State Street Corporation | Accenture
 
 ### Skills
 
