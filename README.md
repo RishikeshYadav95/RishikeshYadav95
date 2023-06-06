@@ -120,8 +120,3 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
   </ol>
 </p>
 <p></p>
-/*
-### Git commits
-
-<a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RishikeshYadav95&bg_color=181824&color=ffffff&line=10b981&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-*/
