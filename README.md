@@ -120,3 +120,5 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
   </ol>
 </p>
 <p></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
