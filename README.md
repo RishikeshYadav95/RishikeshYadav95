@@ -87,15 +87,9 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
       <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2>
-      <a href="http://www.github.com/RishikeshYadav95">
-        <img src="https://ghchart.rshah.org/RishikeshYadav95"/>
-        <div>RishikeshYadav95 Git Commits</div>
-      </a>
-    </td>
-  </tr>
 </table>
+
+
 ### Activity chart
 
 [![Rishikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishikeshYadav95&bg_color=120c0f&color=4ade68&line=32de1b&point=f5ee24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
