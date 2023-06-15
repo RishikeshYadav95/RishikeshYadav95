@@ -87,29 +87,9 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
       <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
   </tr>
-  <tr>
-    <td colspan ="2">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="
-            https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-          "
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="
-            https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-          "
-        />
-        <img
-          alt="github contribution grid snake animation"
-          src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-        />
-      </picture>
-    </td>
-  </tr>
 </table>
+
+![Snake animation](https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake.svg)
 
 ### Work Experience
 <p></p>
