@@ -77,8 +77,16 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
      <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api?username=RishikeshYadav95&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="RishikeshYadav95's GitHub stats" /></a>
     </th>
   <th>
-<a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></th></tr>-->
-  <tr><td colspan="2"> <a href="https://github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&size_weight=0.5&count_weight=0.5&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td></tr>
+<a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></th></tr>
+  <tr><td colspan="2"> <a href="https://github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&size_weight=0.5&count_weight=0.5&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td></tr>-->
+  <tr>
+    <td>
+      <a href="https://github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&size_weight=0.5&count_weight=0.5&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+  </tr>
 </table>
 
 ### Work Experience
