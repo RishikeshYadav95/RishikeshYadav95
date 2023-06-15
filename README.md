@@ -88,8 +88,11 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="http://www.github.com/RishikeshYadav95"><img src="https://ghchart.rshah.org/RishikeshYadav95"/></a>
+    <td colspan="2>
+      <a href="http://www.github.com/RishikeshYadav95">
+        <img src="https://ghchart.rshah.org/RishikeshYadav95"/>
+        <div>RishikeshYadav95 Git Commits</div>
+      </a>
     </td>
   </tr>
 </table>
