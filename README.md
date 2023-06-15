@@ -96,6 +96,9 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
     </td>
   </tr>
 </table>
+### Activity chart
+
+[![Rishikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishikeshYadav95&bg_color=120c0f&color=4ade68&line=32de1b&point=f5ee24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Work Experience
 <p></p>
