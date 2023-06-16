@@ -1,13 +1,15 @@
-Rishikesh Yadav
-================================
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Rishikesh&nbsp;Yadav" style="width: 100%;"/>
 
-Dedicated and driven Computer Science graduate student, having over 5 years of extensive experience, I am actively seeking a Software Developer role to apply my knowledge in practical settings and excel at new technologies in this field.
+<h2></h2>
+
+Dedicated and driven Computer Science graduate, having over 5 years of extensive experience, actively seeking a Software Developer role to apply my creativity and technical abilities, contributing to the success of the organization and excelling at new technologies.
 
 * 🌍  I'm based in Jersey City, NJ
 * ✉️  You can contact me at [rishikesh21095@gmail.com](mailto:rishikesh21095@gmail.com)
+* 📚  MS in Computer Science from Stevens Institute of Technology (GPA: 3.86/4.00)
+* 💼  State Street Corporation | Accenture
 * 🧠  I'm learning Spark
 * 🤝  I'm open to collaborating on any interesting projects
-* 💼  State Street Corporation | Accenture
 
 ### Skills
 
@@ -68,17 +70,10 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
 
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
+<ul>
+<li><b>My GitHub Stats</b></li>
+</ul>
 <table>
-  <!--<tr>
-    <th>
-     <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api?username=RishikeshYadav95&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="RishikeshYadav95's GitHub stats" /></a>
-    </th>
-  <th>
-<a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></th></tr>
-  <tr><td colspan="2"> <a href="https://github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&size_weight=0.5&count_weight=0.5&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td></tr>-->
   <tr>
     <td>
       <a href="https://github.com/RishikeshYadav95"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshYadav95&size_weight=0.5&count_weight=0.5&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -88,10 +83,14 @@ Dedicated and driven Computer Science graduate student, having over 5 years of e
     </td>
   </tr>
 </table>
-
-
-### My GitHub History
-![Snake animation](https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake.svg)
+<ul>
+<li><b>My GitHub History</b></li>
+</ul>
+<table>
+  <tr><td>
+    <a href="http://www.github.com/RishikeshYadav95"><img src="https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake.svg" /></a>
+  </td></tr>
+</table>
 
 ### Work Experience
 <p></p>
