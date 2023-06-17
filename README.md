@@ -122,7 +122,7 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
       <p></p>
       <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Dec 2017 - Nov 2019)</li>
       <ul>
-        <li>Delivered a BlueChip Healthcare project in Java and Oracle DB, single handedly, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%</li>
+        <li>Single handedly delivered a BlueChip Healthcare project in Java and Oracle DB, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%</li>
         <li>Automated monitoring & disaster recovery of all client servers using Python, shell scripts and Splunk to reduce downtime by 75%</li>
         <li>Worked in the DevOps team and created Jenkins pipelines to automate code deployment processes on Cloud</li>
       </ul>
