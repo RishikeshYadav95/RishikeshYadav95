@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Rishikesh&nbsp;Yadav" style="width: 100%;"/>
 
-<h2></h2>
+<h2>About me</h2>
 
 Dedicated and driven Computer Science graduate, having over 5 years of extensive experience, actively seeking a Software Developer role to apply my creativity and technical abilities, contributing to the success of the organization and excelling at new technologies.
 
@@ -10,6 +10,13 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
 * 💼  State Street Corporation | Accenture
 * 🧠  I'm learning Spark
 * 🤝  I'm open to collaborating on any interesting projects
+
+### GitHub History
+<table>
+  <tr><td>
+    <a href="http://www.github.com/RishikeshYadav95"><img src="https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake.svg" /></a>
+  </td></tr>
+</table>
 
 ### Skills
 
@@ -69,10 +76,16 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
 <p align="left"> <a href="https://www.github.com/RishikeshYadav95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-### Badges
-<ul>
-<li><b>My GitHub Stats</b></li>
-</ul>
+###  Badges and Certifications
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Azure AI Fundamentals: Get started with artificial intelligence" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-artificial-intelligence-on-azure.svg" width="70" height="70" /></a> 
+  <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Azure Fundamentals: Describe cloud concepts" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" width="70" height="70" /></a> 
+  <a href="https://www.youracclaim.com/badges/430c9672-8d32-4a1d-b6dd-8c7efe4dd191?source=linked_in_profile" target="_blank" rel="noreferrer"><img title="Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="70" height="70" /></a> 
+  <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Technology Associate: Web Development Fundamentals" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg?branch=main" width="70" height="70" /></a> 
+</p>
+
+### My GitHub Stats
 <table>
   <tr>
     <td>
@@ -82,14 +95,6 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
       <a href="http://www.github.com/RishikeshYadav95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RishikeshYadav95&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
   </tr>
-</table>
-<ul>
-<li><b>My GitHub History</b></li>
-</ul>
-<table>
-  <tr><td>
-    <a href="http://www.github.com/RishikeshYadav95"><img src="https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake.svg" /></a>
-  </td></tr>
 </table>
 
 ### Work Experience
