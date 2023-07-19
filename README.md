@@ -14,7 +14,7 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
 ### GitHub History
 <table>
   <tr><td>
-    <a href="http://www.github.com/RishikeshYadav95"><img src="https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake.svg" /></a>
+    <a href="http://www.github.com/RishikeshYadav95"><img src="https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" /></a>
   </td></tr>
 </table>
 
