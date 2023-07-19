@@ -107,9 +107,9 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
     <ul>
       <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
       <ul>
-        <li>Automated performance testing of the proprietary product on Azure instances by developing a Java framework. Ensured that no performance SLA was breached and reduced operation time by 80%</li>
-        <li>Visualized statistical analytics and built reporting samplers that tracked and generated trades reports. Increased efficiency by 32%</li>
-        <li>Collaborated with clients to build product pitches explaining technological solutions to the non-technical stakeholders</li>
+        <li>Automated performance testing of the proprietary product on Azure instances ensuring that no performance SLA was breached and reduced operation time by 80%. Achieved this by developing a microservices framework using Java Spring Boot & REST APIs.</li>
+        <li>Visualized statistical analytics and built reporting samplers that tracked and generated trades reports. Increased efficiency by 32%.</li>
+        <li>Collaborated with clients; effectively communicating technological solutions to non-technical stakeholders during product pitches.</li>
       </ul>
       <p></p>
     </ul>
@@ -119,17 +119,17 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
     <ul>
       <li>Software Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2019 - Aug 2021)</b></li>
       <ul>
-        <li>Led a Supply-Chain project for one of the biggest retail giants of Canada to construct ESB middleware in Java and Oracle DB, ensuring smooth data flow between disparate applications across vendor platforms. Reduced operation costs by over 40%</li>
-        <li>Implemented 150+ gateway APIs (15%) for Canada’s biggest API migration project in Google Apigee Edge and Layer 7</li>
-        <li>Collaborated with cross-functional teams in sprint planning, pair programming sessions, code reviews, and support rotations</li>
-        <li>Mentored 10 associate developers and conducted technology & domain knowledge transfer sessions for the team</li>
+        <li>Led a Supply-Chain project team of 5 for a major North American retail giant, constructing ESB middleware with Java leveraging Amazon SQS, to ensure smooth data flow between cross-platform vendor applications. Reduced operation costs by over 40%.</li>
+        <li>Implemented and migrated 150+ REST APIs from SOAP in Apigee Edge. Improved speed by 48% & security by 90% using JWT.</li>
+        <li>Worked in the DevOps team and created Jenkins CI/CD pipelines to automate code deployment processes on IBM Cloud.</li>
+        <li>Mentored 10 associate developers and conducted technology & domain knowledge transfer sessions for the team.</li>
       </ul>
       <p></p>
       <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Dec 2017 - Nov 2019)</li>
       <ul>
-        <li>Single handedly delivered a BlueChip Healthcare project in Java and Oracle DB, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%</li>
-        <li>Automated monitoring & disaster recovery of all client servers using Python, shell scripts and Splunk to reduce downtime by 75%</li>
-        <li>Worked in the DevOps team and created Jenkins pipelines to automate code deployment processes on Cloud</li>
+        <li>Delivered a BlueChip Healthcare project in Java Spring MVC and Oracle DB, single handedly, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%.</li>
+        <li>Automated monitoring & disaster recovery of all client servers using Python, shell scripts & Splunk to reduce downtime by 75%.</li>
+        <li>Collaborated with cross-functional teams in sprint planning, pair programming sessions, code reviews, and support rotations.</li>
       </ul>
       <p></p>
     </ul>
