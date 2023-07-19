@@ -6,7 +6,7 @@ Dedicated and driven Computer Science graduate, having over 5 years of extensive
 
 * 🌍  I'm based in Jersey City, NJ
 * ✉️  You can contact me at [rishikesh21095@gmail.com](mailto:rishikesh21095@gmail.com)
-* 📚  MS in Computer Science from Stevens Institute of Technology (GPA: 3.86/4.00)
+* 📚  MS in Computer Science from Stevens Institute of Technology (GPA: 3.9/4.0)
 * 💼  State Street Corporation | Accenture
 * 🧠  I'm learning Spark
 * 🤝  I'm open to collaborating on any interesting projects
