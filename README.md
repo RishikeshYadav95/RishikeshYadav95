@@ -125,7 +125,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
         <li>Mentored 10 associate developers and conducted technology & domain knowledge transfer sessions for the team.</li>
       </ul>
       <p></p>
-      <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Dec 2017 - Nov 2019)</li>
+      <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2017 - Nov 2019)</b></li>
       <ul>
         <li>Delivered a BlueChip Healthcare project in Java Spring MVC and Oracle DB, single handedly, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%.</li>
         <li>Automated monitoring & disaster recovery of all client servers using Python, shell scripts & Splunk to reduce downtime by 75%.</li>
