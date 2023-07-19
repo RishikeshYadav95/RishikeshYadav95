@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-Dedicated and driven Computer Science graduate, having over 5 years of extensive experience, actively seeking a Software Developer role to apply my creativity and technical abilities, contributing to the success of the organization and excelling at new technologies.
+Dedicated and result-oriented Computer Science graduate, having over 4 years of extensive experience, actively seeking a Software Developer role to apply my creativity and technical abilities, contributing to organizational success and excelling at new technologies.
 
 * 🌍  I'm based in Jersey City, NJ
 * ✉️  You can contact me at [rishikesh21095@gmail.com](mailto:rishikesh21095@gmail.com)
