@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v2
         id: snake-gif
 
         with:
