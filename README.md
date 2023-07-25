@@ -18,7 +18,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
   </td></tr>
 </table>
 
-### Skills
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
 
 <p align="left">
@@ -85,7 +85,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
   <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Technology Associate: Web Development Fundamentals" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg?branch=main" width="70" height="70" /></a> 
 </p>
 
-### My GitHub Stats
+## My GitHub Stats
 <table>
   <tr>
     <td>
@@ -97,7 +97,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
   </tr>
 </table>
 
-### Work Experience
+## Work Experience
 <p></p>
 <p align="left">
   <ol>
@@ -139,7 +139,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
 
 ### My GitHub activity chart
 
-[![RishikeshYadav95's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishikeshYadav95&bg_color=000000&color=00ff00&line=37ff00&point=ffff00&area=true&hide_border=true)](https://github.com/RishikeshYadav95)
+[![RishikeshYadav95's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishikeshYadav95&bg_color=000000&color=00ff00&line=37ff00&point=ffff00&area=true&hide_border=false)](https://github.com/RishikeshYadav95)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%;"/>
