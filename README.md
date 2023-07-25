@@ -11,7 +11,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
 * 🧠  I'm learning Spark
 * 🤝  I'm open to collaborating on any interesting projects
 
-### GitHub History
+### My GitHub History
 <table>
   <tr><td>
     <a href="http://www.github.com/RishikeshYadav95"><img src="https://github.com/RishikeshYadav95/RishikeshYadav95/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" /></a>
