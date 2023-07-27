@@ -4,6 +4,8 @@
 
 Dedicated and result-oriented Computer Science graduate, having over 4 years of extensive experience, actively seeking a Software Developer role to apply my creativity and technical abilities, contributing to organizational success and excelling at new technologies.
 
+<img align="right" alt="Coder GIF" height=190 width=300 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+
 * 🌍  I'm based in Jersey City, NJ
 * ✉️  You can contact me at [rishikesh21095@gmail.com](mailto:rishikesh21095@gmail.com)
 * 📚  MS in Computer Science from Stevens Institute of Technology (GPA: 3.9/4.0)
