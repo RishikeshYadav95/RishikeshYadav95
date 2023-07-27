@@ -85,7 +85,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
   <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Technology Associate: Web Development Fundamentals" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg?branch=main" width="70" height="70" /></a> 
 </p>
 
-## My GitHub Stats
+## My GitHub Stats <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" width="28" />
 <table>
   <tr>
     <td>
@@ -97,7 +97,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
   </tr>
 </table>
 
-## Work Experience
+## Work Experience <img src="https://bestanimations.com/media/loading-gears/1461993604single-gear-cog-animation-1-3.gif" width="30" />
 <p></p>
 <p align="left">
   <ol>
