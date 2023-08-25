@@ -110,8 +110,8 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
     <ul>
       <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
       <ul>
-        <li>Automated performance testing of the proprietary product on Azure instances ensuring that no performance SLA was breached and reduced operation time by 80%. Achieved this by developing a microservices framework using Java Spring Boot & REST APIs.</li>
-        <li>Visualized statistical analytics and built reporting samplers that tracked and generated trades reports. Increased efficiency by 32%.</li>
+        <li>Automated performance testing of the proprietary product CRIMS on Azure instances to help clients streamline operations and improve post trade time by 80%. Achieved this by developing a microservices framework using Java SpringBoot & REST APIs.</li>
+        <li>Built Spring models leveraging Kafka to generate analytical trade reports helping clients reduce risk, & improve reliability by 32%.</li>
         <li>Collaborated with clients; effectively communicating technological solutions to non-technical stakeholders during product pitches.</li>
       </ul>
       <p></p>
