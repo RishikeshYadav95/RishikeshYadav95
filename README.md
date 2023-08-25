@@ -131,7 +131,8 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
       <p></p>
       <li>Associate Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2017 - Nov 2019)</b></li>
       <ul>
-        <li>Delivered a BlueChip Healthcare project in Java Spring MVC and Oracle DB, single handedly, and ensured optimization and integrity of sensitive patient data and pharmacy records. Reduced operation time by 30% and increased efficiency by 20%.</li>
+        <li>Delivered a BlueChip Healthcare project in Java Spring MVC, MongoDB and Oracle DB, single handedly, and ensured optimization and integrity of sensitive patient data and pharmacy records to reduce operation time by 30% and increase efficiency by 20%.</li>
+        <li>Leveraged Spark and CRON to backup 200K records/minute to remote PostgreSQL databases, ensuring business continuity.</li>
         <li>Automated monitoring & disaster recovery of all client servers using Python, shell scripts & Splunk to reduce downtime by 75%.</li>
         <li>Collaborated with cross-functional teams in sprint planning, pair programming sessions, code reviews, and support rotations.</li>
       </ul>
