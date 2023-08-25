@@ -122,8 +122,9 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
     <ul>
       <li>Software Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2019 - Aug 2021)</b></li>
       <ul>
-        <li>Led a Supply-Chain project team of 5 for a major North American retail giant, constructing ESB middleware with Java leveraging Amazon SQS, to ensure smooth data flow between cross-platform vendor applications. Reduced operation costs by over 40%.</li>
-        <li>Implemented and migrated 150+ REST APIs from SOAP in Apigee Edge. Improved speed by 48% & security by 90% using JWT.</li>
+        <li>Led a Supply-Chain project team of 5 for a North American retail giant, constructing ESB middleware with IBM ACE and MQ leveraging Docker, to ensure smooth data flow between cross-platform vendor applications. Reduced operation costs by 40%.</li>
+        <li>Migrated legacy monolithic SpringMVC web app to a microservices SpringBoot application using AWS Lambda, and optimized 150 sql queries resulting in improved api transaction times by 30%, reduced maintenance costs and improved fault tolerance.</li>
+        <li>Implemented 150+ REST APIs managing 50,000 concurrent requests/sec in SpringBoot and Apigee Edge. Improved speed by 40% & security by 90% using OAuth2, JWT token, configured session management and ensured protection against XSS and SQL injection.</li>
         <li>Worked in the DevOps team and created Jenkins CI/CD pipelines to automate code deployment processes on IBM Cloud.</li>
         <li>Mentored 10 associate developers and conducted technology & domain knowledge transfer sessions for the team.</li>
       </ul>
