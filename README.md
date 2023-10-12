@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Rishikesh&nbsp;Yadav" style="width: 100%;"/>
 
-<h2>About me</h2>
+
+<h2>About me<img align="right" alt="RishikeshYadav95" height=17% width=17% src="https://komarev.com/ghpvc/?username=RishikeshYadav95&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/>
+</h2>
 
 Dedicated and result-oriented Computer Science graduate, having over 4 years of extensive experience, actively seeking a Software Developer role to apply my creativity and technical abilities, contributing to organizational success and excelling at new technologies.
 
