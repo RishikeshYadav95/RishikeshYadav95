@@ -106,14 +106,26 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
 <p align="left">
   <ol>
     <li>
+      <b>Bright Mind Enrichment and Schooling (BMES), NJ</b><a> - Android</a>
+    </li>
+    <ul>
+      <li>Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Sept 2023 - Present)</b></li>
+      <ul>
+        <li>Enhanced the organization’s android app by building a new version using Java, Kotlin and Firebase. Increased user base by 60%.</li>
+        <li>Leading a team of 6 developers to work and collaborate with multiple data and development cross functional teams across BMES.</li>
+        <li>Conducting daily scrum calls and managing weekly team sprints by leveraging agile methodologies and tools like kanban boards.</li>
+      </ul>
+      <p></p>
+    </ul>
+    <li>
       <b>State Street Corporation, Boston, MA</b><a> - Equity, Trading, Investment Management</a>
     </li>
     <ul>
       <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
       <ul>
-        <li>Automated performance testing of the proprietary product CRIMS on Azure instances to help clients streamline operations and improve post trade time by 80%. Achieved this by developing a microservices framework using Java SpringBoot & REST APIs.</li>
+        <li>Digitized clearance & settlement steps in the proprietary product CRIMS to improve post trade time by 80%. Achieved this by developing a microservices framework using Java SpringBoot & REST APIs and integrated it perfectly with the existing product.</li>
+        <li>Automated the performance testing process of CRIMS on Azure virtual machine instances to help streamline client operations.</li>
         <li>Built Spring models leveraging Kafka to generate analytical trade reports helping clients reduce risk, & improve reliability by 32%.</li>
-        <li>Collaborated with clients; effectively communicating technological solutions to non-technical stakeholders during product pitches.</li>
       </ul>
       <p></p>
     </ul>
@@ -123,7 +135,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
     <ul>
       <li>Software Developer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Dec 2019 - Aug 2021)</b></li>
       <ul>
-        <li>Led a Supply-Chain project team of 5 for a North American retail giant, constructing ESB middleware with IBM ACE and MQ leveraging Docker, to ensure smooth data flow between cross-platform vendor applications. Reduced operation costs by 40%.</li>
+        <li>Led a team of 5 for a North American retail giant, constructing ESB middleware with IBM ACE and MQ leveraging design patterns and Docker, to ensure smooth data flow between cross-platform vendor applications. Reduced operation costs by 40%.</li>
         <li>Migrated legacy monolithic SpringMVC web app to a microservices SpringBoot application using AWS Lambda, and optimized 150 sql queries resulting in improved api transaction times by 30%, reduced maintenance costs and improved fault tolerance.</li>
         <li>Implemented 150+ REST APIs managing 50,000 concurrent requests/sec in SpringBoot and Apigee Edge. Improved speed by 40% & security by 90% using OAuth2, JWT token, configured session management and ensured protection against XSS and SQL injection.</li>
         <li>Worked in the DevOps team and created Jenkins CI/CD pipelines to automate code deployment processes on IBM Cloud.</li>
