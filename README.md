@@ -101,7 +101,7 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
   </tr>
 </table>
 
-## Work Experience <img src="https://thumbs.gfycat.com/ElderlyConventionalCassowary.webp" width="40" />
+## Work Experience <img src="https://www.svgrepo.com/show/299229/data-processing.svg" width ="34">
 <p></p>
 <p align="left">
   <ol>
