@@ -106,18 +106,6 @@ Dedicated and result-oriented Computer Science graduate, having over 4 years of 
 <p align="left">
   <ol>
     <li>
-      <b>Bright Mind Enrichment and Schooling (BMES), NJ</b><a> - Android</a>
-    </li>
-    <ul>
-      <li>Software Developer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(Sept 2023 - Present)</b></li>
-      <ul>
-        <li>Enhanced the organization’s android app by building a new version using Java, Kotlin and Firebase. Increased user base by 60%.</li>
-        <li>Leading a team of 6 developers to work and collaborate with multiple data and development cross functional teams across BMES.</li>
-        <li>Conducting daily scrum calls and managing weekly team sprints by leveraging agile methodologies and tools like kanban boards.</li>
-      </ul>
-      <p></p>
-    </ul>
-    <li>
       <b>State Street Corporation, Boston, MA</b><a> - Equity, Trading, Investment Management</a>
     </li>
     <ul>
